@@ -1,3 +1,4 @@
+// Autor: Alex (re286estudentupn-svg)
 // Pregunta 3 - Colecciones (ArrayList)
 // Programa que almacena nombres de estudiantes en un ArrayList,
 // elimina el tercer nombre y muestra los resultados antes y después.

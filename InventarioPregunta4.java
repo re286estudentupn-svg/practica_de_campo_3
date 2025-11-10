@@ -1,3 +1,4 @@
+// Autor: Alex (re286estudentupn-svg)
 // Pregunta 4 - Integrando conceptos
 // Clase Inventario con métodos sobrecargados para agregar productos.
 // Usa un ArrayList para guardar los productos y valida que precio/cantidad no sean negativos.

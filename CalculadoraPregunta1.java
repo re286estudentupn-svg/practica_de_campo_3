@@ -1,3 +1,4 @@
+// Autor: Alex (re286estudentupn-svg)
 // Pregunta 1 - Sobrecarga de Métodos
 // Clase que demuestra el uso de métodos sobrecargados "sumar"
 

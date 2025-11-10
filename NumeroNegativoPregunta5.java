@@ -1,3 +1,4 @@
+// Autor: Alex (re286estudentupn-svg)
 // Pregunta 5 - Manejo de múltiples excepciones
 // Programa que pide al usuario un número entero y maneja:
 // - NumberFormatException si el valor ingresado no es numérico.

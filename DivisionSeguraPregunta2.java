@@ -1,3 +1,4 @@
+// Autor: Alex (re286estudentupn-svg)
 // Pregunta 2 - Manejo de Errores
 // Programa que realiza una división entre dos enteros ingresados por el usuario
 // e implementa manejo de excepciones para evitar ArithmeticException (división entre cero)
